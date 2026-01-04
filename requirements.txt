@@ -1,0 +1,7 @@
+torch
+numpy
+huggingface_hub
+dataclasses; python_version < "3.7"
+python-dotenv
+datasets
+matplotlib

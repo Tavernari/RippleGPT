@@ -1,0 +1,37 @@
+# Python internals
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# OS specific
+.DS_Store
+.start_command
+
+# Project specific
+out/
+data/*.bin
+data/*.pkl
+ripplegpt_state.pt
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp.env
+
+# Quarto / LaTeX
+*_files/
+_extensions/
+*.tex
+*.aux
+*.log
+*.out
+*.fff
+*.ttt
+
